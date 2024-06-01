@@ -89,7 +89,7 @@ setup(
         "jellyfish",
         "mediafile>=0.12.0",
         "munkres>=1.0.0",
-        "musicbrainzngs>=0.4",
+        "musicbrainzngs @ git+https://github.com/sezaru/python-musicbrainzngs@add_alias_list#egg=musicbrainzngs",
         "pyyaml",
         "typing_extensions",
         "unidecode>=1.3.6",
